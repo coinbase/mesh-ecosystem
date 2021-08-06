@@ -1,0 +1,3 @@
+#.codeflow.yml
+secure:
+  required_reviews: 1
