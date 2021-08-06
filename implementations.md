@@ -1,4 +1,103 @@
 ### Rosetta Implementations
 
-* [rosetta-bitcoin](https://github.com/coinbase/rosetta-bitcoin)
-* [rosetta-ethereum](https://github.com/coinbase/rosetta-ethereum)
+Here is the collection of blockchains that supports Rosetta and links to the their implementation. Reference
+implementations are marked with :star:
+
+- **Avalanche**
+  - Language: Go
+  - [source](https://github.com/ava-labs/avalanche-rosetta)
+- **Bitcoin** :star:
+  - Language: Go
+  - [source](https://github.com/coinbase/rosetta-bitcoin) 
+- **Cardano**
+  - Language: Typescript
+  - [source](https://github.com/input-output-hk/cardano-rosetta)
+- **Celo**
+  - Language: Go
+  - [source](https://github.com/celo-org/rosetta)
+- **Cosmos**
+  - Language: Go
+  - [source](https://github.com/tendermint/cosmos-rosetta-gateway)
+- **Dfinity** 
+  - Language:Rust
+  - [source](https://github.com/dfinity/ic/tree/master/rs/rosetta-api)
+  - [doc](https://sdk.dfinity.org/docs/integration/ledger-quick-start.html)
+- **Digibyte**
+  - Language: Go 
+  - [source](https://github.com/tehG30RG3/rosetta-digibyte)
+- **Decred**
+  - Language: Go 
+  - [source](https://github.com/decred/dcrros)
+- **DigiByte**
+  - Language: Go 
+  - [source](https://github.com/DigiByte-Core/digibyte-rosetta-nodeapi/pull/1)
+- **Elrond**
+  - Language: Go 
+  - [source](https://github.com/ElrondNetwork/elrond-proxy-go/tree/master/rosetta)
+- **Ethereum** :star:
+  - Language: Go 
+  - [source](https://github.com/coinbase/rosetta-ethereum) 
+- **Ethereum 2.0** 
+  - Language: Go
+  - [source](https://github.com/Ankr-network/rosetta-ethereum-2.0)
+- **Filecoin**
+  - Language: Go 
+  - [source](https://github.com/Zondax/filecoin-indexing-rosetta-proxy)
+- **Handshake HNS**
+  - Language: Javascript
+  - [source](https://github.com/handshake-org/hs-rosetta)
+- **Harmony**
+  - Language: Go 
+  - [source](https://github.com/harmony-one/harmony/tree/main/rosetta)
+- **Horizen**
+  - Language: Go 
+  - [source](https://github.com/HorizenOfficial/rosetta-zen)
+- **ICON**
+  - Language: Go 
+  - [source](https://github.com/icon-project/rosetta-icon)
+- **Kadena**
+  - Language: Haskell 
+  - [source](https://github.com/kadena-io/chainweb-node/tree/master/src/Chainweb/Rosetta)
+- **Kava**
+  - Language: Go 
+  - [source](https://github.com/Kava-Labs/rosetta-kava)
+- **MINA**
+  - Language: OCaml
+  - [source](https://github.com/MinaProtocol/mina/tree/master/src/app/rosetta)
+- **Near**
+  - Language: Rust
+  - [source](https://github.com/near/nearcore/tree/master/chain/rosetta-rpc)
+- **Neo**
+  - Language: C#
+  - [source](https://github.com/neo-ngd/neo-common-plugins/tree/master/RosettaAPI)
+- **Nervos**
+  - Language: Go 
+  - [source](https://github.com/nervosnetwork/ckb-rosetta-sdk) 
+  - [Docker](https://github.com/nervosnetwork/ckb-rosetta-docker)
+- **Oasis**
+  - Language: Go 
+  - [source](https://github.com/oasisprotocol/oasis-core-rosetta-gateway)
+- **Ontology**
+  - Language: Go 
+  - [source](https://github.com/ontio/ontology-rosetta)
+- **Sia**
+  - Language: Go 
+  - [source](https://github.com/NebulousLabs/rosetta-sia)
+- **Snowblossom**
+  - Language: Java
+  - [source](https://github.com/snowblossomcoin/rosesnow)
+- **Stacks**
+  - Language: Typescript
+  - [source](https://github.com/blockstack/stacks-blockchain-api)
+- **Syscoin**
+  - Language: Go 
+  - [source](https://github.com/syscoin/rosetta-syscoin)
+- **Tron**
+  - Language: Java
+  - [source](https://github.com/tronprotocol/tron-rosetta-api)
+- **VeChain**
+  - Language: TypeScript 
+  - [source](https://github.com/vechain/rosetta)
+- **Zilliqa**
+  - Language: Go 
+  - [source](https://github.com/Zilliqa/zilliqa-rosetta)
