@@ -49,6 +49,9 @@ implementations are marked with :star:
 - **Harmony**
   - Language: Go 
   - [source](https://github.com/harmony-one/harmony/tree/main/rosetta)
+- **Helium**
+  - Language: Go 
+  - [source](https://github.com/helium/rosetta-helium)
 - **Horizen**
   - Language: Go 
   - [source](https://github.com/HorizenOfficial/rosetta-zen)
