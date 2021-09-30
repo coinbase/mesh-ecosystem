@@ -31,6 +31,9 @@ implementations are marked with :star:
 - **DigiByte**
   - Language: Go 
   - [source](https://github.com/DigiByte-Core/digibyte-rosetta-nodeapi/pull/1)
+- **ElectraProrotocol**
+  - Language: Go 
+  - [source](https://github.com/ElectraProtocol/rosetta-electraprotocol)
 - **Elrond**
   - Language: Go 
   - [source](https://github.com/ElrondNetwork/elrond-proxy-go/tree/master/rosetta)
