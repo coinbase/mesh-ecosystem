@@ -107,3 +107,4 @@ implementations are marked with :star:
 - **Zilliqa**
   - Language: Go 
   - [source](https://github.com/Zilliqa/zilliqa-rosetta)
+  - [doc](https://dev.zilliqa.com/docs/exchanges/rosetta-introduction)
