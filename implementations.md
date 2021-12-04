@@ -61,6 +61,10 @@ implementations are marked with :star:
 - **ICON**
   - Language: Go 
   - [source](https://github.com/icon-project/rosetta-icon)
+- **IOTA**
+  - Language: Rust 
+  - [source](https://github.com/iotaledger/rosetta-iota)
+  - [doc](https://rosetta-api.docs.iota.org)
 - **Kadena**
   - Language: Haskell 
   - [source](https://github.com/kadena-io/chainweb-node/tree/master/src/Chainweb/Rosetta)
