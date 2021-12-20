@@ -22,9 +22,6 @@ implementations are marked with :star:
   - Language:Rust
   - [source](https://github.com/dfinity/ic/tree/master/rs/rosetta-api)
   - [doc](https://sdk.dfinity.org/docs/integration/ledger-quick-start.html)
-- **Digibyte**
-  - Language: Go 
-  - [source](https://github.com/tehG30RG3/rosetta-digibyte)
 - **Decred**
   - Language: Go 
   - [source](https://github.com/decred/dcrros)
