@@ -17,7 +17,7 @@ implementations are marked with :star:
   - [source](https://github.com/celo-org/rosetta)
 - **Cosmos**
   - Language: Go
-  - [source](https://github.com/tendermint/cosmos-rosetta-gateway)
+  - [source](https://github.com/cosmos/cosmos-sdk/tree/main/server/rosetta)
 - **Dfinity** 
   - Language:Rust
   - [source](https://github.com/dfinity/ic/tree/master/rs/rosetta-api)
