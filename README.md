@@ -7,20 +7,24 @@
    Rosetta Ecosystem
 </h3>
 <p align="center">
-Repository of all open source Rosetta implementations and SDKs
+Repository of all open-source Rosetta implementations and SDKs
 </p>
 
 ## Overview
-This repository contains references to Rosetta implementation and SDKs available to community.
+
+This repository contains references to Rosetta implementations and SDKs available to the community.
 
 ### Resources
+
 * [Rosetta Implementations](./implementations.md)
 * [Rosetta SDKs](./sdks.md)
 
 ### Contribute
-Please raise a PR to add any new implementation and sdk.
+
+Please open a PR to add any new implementation or SDK.
 
 ## License
-This project is available open source under the terms of the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
 
-© 2021 Coinbase
+This project is available as open source under the terms of the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
+
+© 2022 Coinbase
