@@ -99,6 +99,11 @@ If you have any questions, feel free to ask them in the Rosetta Community Boards
 * [Syscoin](https://github.com/syscoin/rosetta-syscoin)
 * [Zilliqa](https://github.com/Zilliqa/zilliqa-rosetta)
 
+### Java
+
+* [Snowblossom](https://github.com/snowblossomcoin/rosesnow)
+* [Tron](https://github.com/tronprotocol/tron-rosetta-api)
+
 ### Rust
 
 * [Dfinity](https://github.com/dfinity/ic/tree/master/rs/rosetta-api)
@@ -110,11 +115,6 @@ If you have any questions, feel free to ask them in the Rosetta Community Boards
 * [Cardano](https://github.com/input-output-hk/cardano-rosetta)
 * [Stacks](https://github.com/blockstack/stacks-blockchain-api)
 * [VeChain](https://github.com/vechain/rosetta)
-
-### Java
-
-* [Snowblossom](https://github.com/snowblossomcoin/rosesnow)
-* [Tron](https://github.com/tronprotocol/tron-rosetta-api)
 
 ### Other Languages
 
