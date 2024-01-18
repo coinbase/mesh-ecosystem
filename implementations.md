@@ -48,7 +48,7 @@ If you have any questions, feel free to ask them in the Rosetta Community Boards
 * [`rosetta-ethereum`](https://github.com/coinbase/rosetta-ethereum) provides an implementation sample of the Rosetta API for Ethereum in Golang. You can read more about `rosetta-ethereum` in the [launch](https://community.rosetta-api.org/t/introducing-rosetta-ethereum-coinbases-ethereum-implementation-of-the-rosetta-api/270) blog post.
 * [Avalanche](https://github.com/ava-labs/avalanche-rosetta)
 * [Celo](https://github.com/celo-org/rosetta)
-* [Cosmos](https://github.com/cosmos/cosmos-sdk/tree/main/server/rosetta)
+* [Cosmos](https://github.com/cosmos/rosetta)
 * [Dfinity](https://github.com/dfinity/ic/tree/master/rs/rosetta-api)
 * [Elrond](https://github.com/ElrondNetwork/elrond-proxy-go/tree/master/rosetta)
 * [Ethereum 2.0](https://github.com/Ankr-network/rosetta-ethereum-2.0)
@@ -84,7 +84,7 @@ If you have any questions, feel free to ask them in the Rosetta Community Boards
 * [Avalanche](https://github.com/ava-labs/avalanche-rosetta)
 * [`rosetta-bitcoin`](https://github.com/coinbase/rosetta-bitcoin)
 * [Celo](https://github.com/celo-org/rosetta)
-* [Cosmos](https://github.com/cosmos/cosmos-sdk/tree/main/server/rosetta)
+* [Cosmos](https://github.com/cosmos/rosetta)
 * [Decred](https://github.com/decred/dcrros)
 * [DigiByte](https://github.com/DigiByte-Core/digibyte-rosetta-nodeapi/pull/1)
 * [ElectraProtocol](https://github.com/ElectraProtocol/rosetta-electraprotocol)
