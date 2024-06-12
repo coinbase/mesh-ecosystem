@@ -1,31 +1,12 @@
-### Rosetta Implementations
+### Mesh Implementations
 
-These blockchains supports Rosetta. You will find links to their implementations below. Implementation samples are marked with :star:
-
-<!-- Instructions for adding your blockchain to the list:
-The blockchains are classified by Blockchain Model and by Language. Please add your blockchain links to BOTH categories.
-
-All lists are in alphabetical order. When adding your blockchain, please keep that list order. 
-**The rosetta-bitcoin and rosetta-ethereum implementations must remain the first item in their respective model list.**
-
-Blockchain Model Categories
-
-* UTXO-Based Blockchains
-* Account-Based Blockchains
-* Other Types of Blockchains
-
-Language Categories
-
-Languages are listed in alphabetical order. If your language is not listed as a separate category, please add your link to the Other Languages section. Once a language has two or more entries, the language can be removed from the Other Languages section and listed as its own category. Please follow the alphabetical order rules mentioned earlier.
-
-If you have any questions, feel free to ask them in the Rosetta Community Boards at https://community.rosetta-api.org/
- -->
+These blockchains supports Mesh. You will find links to their implementations below. Implementation samples are marked with :star:
 
 ## Samples by Blockchain Model
 
 ### UTXO-based Blockchains
 
-* [`rosetta-bitcoin`](https://github.com/coinbase/rosetta-bitcoin) provides an implementation sample of the Rosetta API for Bitcoin in Golang. You can read more about `rosetta-bitcoin` in the [launch](https://community.rosetta-api.org/t/introducing-rosetta-bitcoin-coinbase-s-bitcoin-implementation-of-the-rosetta-api/244) blog post.
+* [`mesh-bitcoin`](https://github.com/coinbase/mesh-bitcoin) provides an implementation sample of the Mesh API for Bitcoin in Golang. You can read more about `mesh-bitcoin` in the [launch](https://community.rosetta-api.org/t/introducing-rosetta-bitcoin-coinbase-s-bitcoin-implementation-of-the-rosetta-api/244) blog post.
 * [Litecoin](https://github.com/litecoin-project/litecoin)
 * [Cardano](https://github.com/input-output-hk/cardano-rosetta) 
 * [Decred](https://github.com/decred/dcrros)
@@ -45,7 +26,7 @@ If you have any questions, feel free to ask them in the Rosetta Community Boards
 
 ### Account-based Blockchains
 
-* [`rosetta-ethereum`](https://github.com/coinbase/rosetta-ethereum) provides an implementation sample of the Rosetta API for Ethereum in Golang. You can read more about `rosetta-ethereum` in the [launch](https://community.rosetta-api.org/t/introducing-rosetta-ethereum-coinbases-ethereum-implementation-of-the-rosetta-api/270) blog post.
+* [`mesh-ethereum`](https://github.com/coinbase/mesh-ethereum) provides an implementation sample of the Mesh API for Ethereum in Golang. You can read more about `mesh-ethereum` in the [launch](https://community.rosetta-api.org/t/introducing-rosetta-ethereum-coinbases-ethereum-implementation-of-the-rosetta-api/270) blog post.
 * [Avalanche](https://github.com/ava-labs/avalanche-rosetta)
 * [Celo](https://github.com/celo-org/rosetta)
 * [Cosmos](https://github.com/cosmos/cosmos-sdk/tree/main/server/rosetta)

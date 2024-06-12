@@ -1,23 +1,23 @@
 <p align="center">
-  <a href="https://www.rosetta-api.org">
-    <img width="90%" alt="Rosetta" src="https://www.rosetta-api.org/img/rosetta_header.png">
+  <a href="https://www.Mesh-api.org">
+    <img width="90%" alt="Mesh" src="https://www.Mesh-api.org/img/Mesh_header.png">
   </a>
 </p>
 <h3 align="center">
-   Rosetta Ecosystem
+   Mesh Ecosystem
 </h3>
 <p align="center">
-Repository of all open-source Rosetta implementations and SDKs
+Repository of all open-source Mesh implementations and SDKs
 </p>
 
 ## Overview
 
-This repository contains references to Rosetta implementations and SDKs available to the community.
+This repository contains references to Mesh implementations and SDKs available to the community.
 
 ### Resources
 
-* [Rosetta Implementations](./implementations.md)
-* [Rosetta SDKs](./sdks.md)
+* [Mesh Implementations](./implementations.md)
+* [Mesh SDKs](./sdks.md)
 
 ### Contribute
 
