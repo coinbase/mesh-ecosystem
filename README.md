@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://www.Mesh-api.org">
-    <img width="90%" alt="Mesh" src="https://www.Mesh-api.org/img/Mesh_header.png">
-  </a>
-</p>
 <h3 align="center">
    Mesh Ecosystem
 </h3>
