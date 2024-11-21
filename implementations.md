@@ -29,7 +29,7 @@ These blockchains supports Mesh. You will find links to their implementations be
 * [`mesh-ethereum`](https://github.com/coinbase/mesh-ethereum) provides an implementation sample of the Mesh API for Ethereum in Golang. You can read more about `mesh-ethereum` in the [launch](https://community.rosetta-api.org/t/introducing-rosetta-ethereum-coinbases-ethereum-implementation-of-the-rosetta-api/270) blog post.
 * [Avalanche](https://github.com/ava-labs/avalanche-rosetta)
 * [Celo](https://github.com/celo-org/rosetta)
-* [Cosmos](https://github.com/cosmos/cosmos-sdk/tree/main/server/rosetta)
+* [Cosmos](https://github.com/cosmos/rosetta)
 * [Dfinity](https://github.com/dfinity/ic/tree/master/rs/rosetta-api)
 * [Elrond](https://github.com/ElrondNetwork/elrond-proxy-go/tree/master/rosetta)
 * [Ethereum 2.0](https://github.com/Ankr-network/rosetta-ethereum-2.0)
@@ -65,7 +65,7 @@ These blockchains supports Mesh. You will find links to their implementations be
 * [Avalanche](https://github.com/ava-labs/avalanche-rosetta)
 * [`rosetta-bitcoin`](https://github.com/coinbase/rosetta-bitcoin)
 * [Celo](https://github.com/celo-org/rosetta)
-* [Cosmos](https://github.com/cosmos/cosmos-sdk/tree/main/server/rosetta)
+* [Cosmos](https://github.com/cosmos/rosetta)
 * [Decred](https://github.com/decred/dcrros)
 * [DigiByte](https://github.com/DigiByte-Core/digibyte-rosetta-nodeapi/pull/1)
 * [ElectraProtocol](https://github.com/ElectraProtocol/rosetta-electraprotocol)
